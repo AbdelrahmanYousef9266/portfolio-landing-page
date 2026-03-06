@@ -16,7 +16,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333;
+    background-color:darkslategray;
     padding: 15px 30px;
 }
 
@@ -48,7 +48,7 @@ nav a:hover {
     justify-content: space-around;
     align-items: center;
     padding: 40px;
-    background-color: #f0f0f0;
+    background-color: lightgray;
 }
 
 .hero-text {
@@ -69,6 +69,7 @@ nav a:hover {
 .projects {
     text-align: center;
     padding: 40px;
+    background-color:whitesmoke;
 }
 
 .project-container {
@@ -94,7 +95,7 @@ nav a:hover {
 /* Footer */
 
 footer {
-    background-color: #333;
+    background-color: darkslategray;
     color: white;
     text-align: center;
     padding: 25px;
